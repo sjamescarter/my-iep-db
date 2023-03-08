@@ -1,52 +1,138 @@
 {
-  "toys": [
+  "students": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "studentNumber": "232425",
+      "firstName": "Willy",
+      "lastName": "Wonder",
+      "birthdate": "2014-07-08",
+      "iepDate": "2023-03-22",
+      "threeYearRe": false,
+      "id": 4
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "studentNumber": "432546",
+      "firstName": "Tim",
+      "lastName": "Bucktu",
+      "birthdate": "2010-11-17",
+      "iepDate": "2023-03-29",
+      "threeYearRe": false,
+      "id": 5
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "studentNumber": "4321",
+      "firstName": "Misty",
+      "lastName": "Ayed",
+      "birthdate": "2013-02-05",
+      "iepDate": "2023-03-15",
+      "threeYearRe": true,
+      "id": 6
+    }
+  ],
+  "dates": [
+    {
+      "studentNumber": "232425",
+      "title": "Domain Meeting",
+      "days": 60,
+      "completed": true,
+      "id": 16
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "studentNumber": "232425",
+      "title": "Collect Data",
+      "days": 15,
+      "completed": true,
+      "id": 17
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "studentNumber": "232425",
+      "title": "Send Report Home",
+      "days": 10,
+      "completed": true,
+      "id": 18
     },
     {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "studentNumber": "232425",
+      "title": "IEP Rough Draft",
+      "days": 3,
+      "completed": false,
+      "id": 19
     },
     {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "studentNumber": "232425",
+      "title": "IEP Meeting",
+      "days": 0,
+      "completed": false,
+      "id": 20
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "studentNumber": "432546",
+      "title": "Domain Meeting",
+      "days": 60,
+      "completed": true,
+      "id": 21
+    },
+    {
+      "studentNumber": "432546",
+      "title": "Collect Data",
+      "days": 15,
+      "completed": true,
+      "id": 22
+    },
+    {
+      "studentNumber": "432546",
+      "title": "Send Report Home",
+      "days": 10,
+      "completed": false,
+      "id": 23
+    },
+    {
+      "studentNumber": "432546",
+      "title": "IEP Rough Draft",
+      "days": 3,
+      "completed": false,
+      "id": 24
+    },
+    {
+      "studentNumber": "432546",
+      "title": "IEP Meeting",
+      "days": 0,
+      "completed": false,
+      "id": 25
+    },
+    {
+      "studentNumber": "4321",
+      "title": "Domain Meeting",
+      "days": 60,
+      "completed": true,
+      "id": 26
+    },
+    {
+      "studentNumber": "4321",
+      "title": "Collect Data",
+      "days": 15,
+      "completed": true,
+      "id": 27
+    },
+    {
+      "studentNumber": "4321",
+      "title": "Send Report Home",
+      "days": 10,
+      "completed": true,
+      "id": 28
+    },
+    {
+      "studentNumber": "4321",
+      "title": "IEP Rough Draft",
+      "days": 3,
+      "completed": false,
+      "id": 29
+    },
+    {
+      "studentNumber": "4321",
+      "title": "IEP Meeting",
+      "days": 0,
+      "completed": false,
+      "id": 30
     }
   ]
 }
