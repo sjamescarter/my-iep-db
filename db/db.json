@@ -26,6 +26,24 @@
       "iepDate": "2023-03-15",
       "threeYearRe": true,
       "id": 6
+    },
+    {
+      "studentNumber": "123456",
+      "firstName": "Claire",
+      "lastName": "Annette",
+      "birthdate": "2005-03-04",
+      "iepDate": "2023-03-16",
+      "threeYearRe": false,
+      "id": 7
+    },
+    {
+      "studentNumber": "654321",
+      "firstName": "Ryan",
+      "lastName": "Sherman",
+      "birthdate": "2022-08-31",
+      "iepDate": "2023-03-31",
+      "threeYearRe": false,
+      "id": 8
     }
   ],
   "dates": [
@@ -82,7 +100,7 @@
       "studentNumber": "432546",
       "title": "Send Report Home",
       "days": 10,
-      "completed": false,
+      "completed": true,
       "id": 23
     },
     {
@@ -124,15 +142,85 @@
       "studentNumber": "4321",
       "title": "IEP Rough Draft",
       "days": 3,
-      "completed": false,
+      "completed": true,
       "id": 29
     },
     {
       "studentNumber": "4321",
       "title": "IEP Meeting",
       "days": 0,
-      "completed": false,
+      "completed": true,
       "id": 30
+    },
+    {
+      "studentNumber": "123456",
+      "title": "Domain Meeting",
+      "days": 60,
+      "completed": true,
+      "id": 31
+    },
+    {
+      "studentNumber": "123456",
+      "title": "Collect Data",
+      "days": 15,
+      "completed": true,
+      "id": 32
+    },
+    {
+      "studentNumber": "123456",
+      "title": "Send Report Home",
+      "days": 10,
+      "completed": true,
+      "id": 33
+    },
+    {
+      "studentNumber": "123456",
+      "title": "IEP Rough Draft",
+      "days": 3,
+      "completed": true,
+      "id": 34
+    },
+    {
+      "studentNumber": "123456",
+      "title": "IEP Meeting",
+      "days": 0,
+      "completed": false,
+      "id": 35
+    },
+    {
+      "studentNumber": "654321",
+      "title": "Domain Meeting",
+      "days": 60,
+      "completed": false,
+      "id": 36
+    },
+    {
+      "studentNumber": "654321",
+      "title": "Collect Data",
+      "days": 15,
+      "completed": false,
+      "id": 37
+    },
+    {
+      "studentNumber": "654321",
+      "title": "Send Report Home",
+      "days": 10,
+      "completed": false,
+      "id": 38
+    },
+    {
+      "studentNumber": "654321",
+      "title": "IEP Rough Draft",
+      "days": 3,
+      "completed": false,
+      "id": 39
+    },
+    {
+      "studentNumber": "654321",
+      "title": "IEP Meeting",
+      "days": 0,
+      "completed": false,
+      "id": 40
     }
   ]
 }
